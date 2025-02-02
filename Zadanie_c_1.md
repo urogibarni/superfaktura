@@ -32,5 +32,5 @@ SuperFaktura
 
 ## Vypracovanie úlohy:
 
-* Vypracované zadanie je dostupné na URL adrese: **[algoritmia.php](https://github.com/urogibarni/superfaktura/blob/main/README.md)**  
+* Vypracované zadanie je dostupné na URL adrese: **[algoritmia.php](https://github.com/urogibarni/superfaktura/blob/master/algoritmia.php)**  
   * Obsah PHP súbor je možné testovať napríklad aj na PHP Sandboxe::  [PHP sandbox](https://legacy-sandbox.onlinephpfunctions.com/)

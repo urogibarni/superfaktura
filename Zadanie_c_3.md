@@ -38,6 +38,6 @@ Odporúčame preto venovať týmto oblastiam zvýšenú pozornosť, aby ste pred
 
 ## Vypracovanie úlohy:
 
-* Vypracované zadanie je dostupné na URL adrese: **[ARES-CompanyDataFetcher]**.
+* Vypracované zadanie je dostupné na URL adrese: **[ARES-CompanyDataFetcher](https://github.com/urogibarni/AresClient/tree/develop)**.
   
   * Knižnica popisuje základné fungovanie a implementáciu, vrátane príkladov použitia
